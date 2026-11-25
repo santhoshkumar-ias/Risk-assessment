@@ -1,8 +1,8 @@
 
 # Experiment 4 – Asset-Oriented Risk Assessment of Storage Assets in AWS
 
-# Name  :SANTHOSH KUMAR V
-# Reg No:212225040381
+# Name  : SANTHOSH KUMAR V
+# Reg No: 212225040381
 
 ## Objective
 To identify storage assets in AWS S3, examine their security configurations, identify possible vulnerabilities and threats, and assess their likelihood, impact, and risk level.
